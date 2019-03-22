@@ -1,3 +1,32 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "stream",
+      "description": "this is a stream",
+      "id": 1
+    },
+    {
+      "title": "another stream",
+      "description": "this is a stream",
+      "id": 2
+    },
+    {
+      "title": "TestingUserID",
+      "description": "this is a test",
+      "userId": "102038747261707763389",
+      "id": 3
+    },
+    {
+      "title": "wdwd",
+      "description": "wdwd",
+      "userId": "102038747261707763389",
+      "id": 4
+    },
+    {
+      "title": "wdwd",
+      "description": "wdwd",
+      "userId": "102038747261707763389",
+      "id": 5
+    }
+  ]
 }
